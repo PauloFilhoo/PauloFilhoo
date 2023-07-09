@@ -3,7 +3,6 @@
 - 👋 Hi, I’m @Paulogameprays
 - 👀 I’m interested in learn more about this area.
 - 🌱 I’m currently learning C#, JavaScript, HTML, CSS, Python
-- 📫 How to reach me ...
 ---
 <!---
 Paulogameprays/Paulogameprays is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
