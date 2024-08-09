@@ -1,5 +1,11 @@
-# Olá, meu nome é Paulo Filho.
+# Olá, me chamo Paulo Filho!
 
-> Sou estudante e desenvolvedor front-end.
-> 
->Domínio das seguintes linguagens:
+Atualmente estudante e desenvolvedor front-end.
+
+Conhecimentos em:
+* HTML
+* CSS
+* JavaScript
+* C++
+* C# (Unity3D)
+
