@@ -8,4 +8,5 @@ Conhecimentos em:
 * JavaScript
 * C++
 * C# (Unity3D)
+* NodeJS
 
