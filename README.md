@@ -2,7 +2,7 @@
 
 Atualmente estudante e desenvolvedor front-end.
 
-Conhecimentos em:
+Tenho conhecimentos em:
 * HTML
 * CSS
 * JavaScript
